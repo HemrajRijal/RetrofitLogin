@@ -1,4 +1,4 @@
-package com.loginmodule.retrofit.loginretrofit;
+package com.loginmodule.retrofit.loginretrofit.activity;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
+import com.loginmodule.retrofit.loginretrofit.R;
 import com.loginmodule.retrofit.loginretrofit.fragments.LoginFragment;
 import com.loginmodule.retrofit.loginretrofit.fragments.ProfileFragment;
 import com.loginmodule.retrofit.loginretrofit.utils.Constants;
